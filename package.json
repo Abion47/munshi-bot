@@ -1,15 +1,24 @@
 {
   "name": "munshi-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Oh, hi. Didn't hear you come in.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abion47",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^11.3.2",
     "uws": "^9.148.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abion47/munshi-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abion47/munshi-bot/issues"
+  },
+  "homepage": "https://github.com/Abion47/munshi-bot#readme"
 }
